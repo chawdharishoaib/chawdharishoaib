@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chawdharishoaib
 - 👀 I’m interested in Data Analytics, Machine learning, Deep Learning and Artificial Ingelligence.
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science project
-- 📫 How to reach me 2016.shoaib.chawdhary@ves.ac.in
+- 📫 How to reach me chawdharyshoaib77@gmail.com
 
 <!---
 chawdharishoaib/chawdharishoaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
